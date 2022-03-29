@@ -1,4 +1,4 @@
-# Matching and expanding fix patterns to enableautomatic program repair
+# Matching and expanding fix patterns to enable automatic program repair
 Replication package
 
 
